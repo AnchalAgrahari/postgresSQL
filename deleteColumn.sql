@@ -1,5 +1,6 @@
 -- INSERT INTO public.work (name, age)
 -- VALUES ('Cookie', 22);
 
-ALTER TABLe public.work
-SELECT * FROM public.work
+DELETE FROM public.work
+WHERE id NOT IN (24,57);
+SELECT * FROM public.work;
