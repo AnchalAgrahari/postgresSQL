@@ -1,0 +1,5 @@
+
+ALTER TABLE  public.work
+ADD gender VARCHAR(50);
+
+SELECT * FROM PUBLIC.WORK;
