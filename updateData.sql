@@ -1,5 +1,10 @@
 UPDATE public.work
-	set age='20'
-	where id = 35;
+	set gender = 'male'
+	where 
+		name = 'Cookie';
+
+	-- set gender = 'female'
+	-- where
+	-- 	name ='Maximillian';
 
 select * from public.work
