@@ -8,7 +8,7 @@ creating, connect, listing, droping
 ### CURD Operation : 
 create table, read table, update table, delete table
 
-#### DataType :
+### DataType :
  A Attribute that specifies the type of data in a column of our database
 
 ### Type of DataType 
@@ -32,3 +32,33 @@ null valus is not allowed in the column
 if nothing value is for the column is will save the default value insted of null 
 * AUTO_INCREMENT 
 you do not have to give value for column by using **SERIAL** is will give the unique value for the column
+
+### SQL Clauses 
+- WHERE
+- DISTINCT 
+- ORDER BY
+- LIMIT
+- LIKE
+- GROUP BY
+### **logical operator** 
+- AND
+- OR
+- IN 
+- NOT IN
+- BETWEEN
+### **Aggeregated Function**
+- COUNT
+- SUM
+- MIN
+- AVG 
+- MAX
+## **String Function** 
+- CONCAT, CONCAT_WS
+- SUBSTR
+- LEFT, RIGHT
+- LENGTH
+- UPPER, LOWER
+- TRIM, LTRIM,RTRIM
+* REPLACR
+* POSITION 
+* STRING_AGG
