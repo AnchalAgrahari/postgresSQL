@@ -61,4 +61,5 @@ you do not have to give value for column by using **SERIAL** is will give the un
 - TRIM, LTRIM,RTRIM
 * REPLACR
 * POSITION 
-* STRING_AGG
+## **ALTER CONSTRAIN** 
+
