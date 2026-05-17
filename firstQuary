@@ -1,6 +1,8 @@
 CREATE TABLE IF NOT EXISTS public.student(
 	id SERIAL PRIMARY KEY,
 	name VARCHAR(100),
-	age INT
+	age INT,
+ course VARCHAR(20)
+ 
 );
  
